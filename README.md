@@ -1,2 +1,4 @@
 # praticando-git
-Testt
+Teste
+Teste
+Teste
