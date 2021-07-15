@@ -1,3 +1,2 @@
 # praticando-git
 Teste
-Teste
