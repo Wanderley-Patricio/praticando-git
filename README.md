@@ -1,5 +1,3 @@
 # praticando-git
 Teste
 #######
-#######
-#######
